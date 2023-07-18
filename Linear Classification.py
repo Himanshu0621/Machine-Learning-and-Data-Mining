@@ -27,7 +27,7 @@ df_test
 # In[4]:
 
 
-df_train = pd.read_csv(r'C:\Himanshu\MMSO\Sem - 2\Machine Learning\train.csv')
+df_train = pd.read_csv(r'Please add a train.csv file location')
 
 
 # In[5]:
