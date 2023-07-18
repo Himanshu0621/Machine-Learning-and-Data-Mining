@@ -15,7 +15,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # In[2]:
 
 
-df_test = pd.read_csv(r'C:\Himanshu\MMSO\Sem - 2\Machine Learning\test.csv')
+df_test = pd.read_csv(r'Please add a test.csv file location')
 
 
 # In[3]:
