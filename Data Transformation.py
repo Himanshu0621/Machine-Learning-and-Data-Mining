@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 from itertools import groupby 
 
-df = pd.read_csv('C:\Himanshu\MMSO\Sem - 2\Machine Learning\iris.csv')
+df = pd.read_csv('Please write iris.csv file location')
 
 
 # In[2]:
